@@ -1,0 +1,114 @@
+ID,Label,Type,Country_ID
+1,ACF/RWSS,organisation,
+2,ACTED,organisation,
+3,AMREF,organisation,
+4,C and D,organisation,
+5,CARE Ethiopia All,organisation,
+6,CARE-Uganda-Otuke,organisation,
+7,CARE-Uganda-Otuke2,organisation,
+8,Concern,organisation,
+9,Cowater International,organisation,
+10,CRS-BF,organisation,
+11,DACAAR,organisation,
+12,El Porvenier,organisation,
+13,Engineering Sciences & Global Development,organisation,
+14,Ethiopia Ministry of Water Irrigation And Electricity,organisation,
+15,Evidence Action,organisation,
+16,FAO - Somalia Water and Land Information Management,organisation,
+17,INITIATIVE EAU,organisation,
+18,"Institute for Sustainable Futures, University of Technology Sydney",organisation,
+19,ISF,organisation,
+20,Lifeline,organisation,
+21,Lilongwe Urban PIMS,organisation,
+22,Living Water International,organisation,
+23,Millennium Water Alliance,organisation,
+24,"Ministry of Water and Environment, Uganda",organisation,
+25,Mwanza,organisation,
+26,PDI-MCH PIMS,organisation,
+27,Plan,organisation,
+28,rasmata onlus - H2OpenMap.org,organisation,
+29,Sierra Leone STATWASH portal,organisation,
+30,SNV,organisation,
+31,SNV-Zambia,organisation,
+32,South Gondar Ethiopia,organisation,
+33,TEST,organisation,
+34,Text to Change,organisation,
+35,The Government of Timor-Leste,organisation,
+36,The Water Trust Uganda,organisation,
+37,VERGNET-HYDRO,organisation,
+38,Virtual Kenya,organisation,
+39,WA,organisation,
+40,WASH Liberia,organisation,
+41,Water For People,organisation,
+42,Water for South Sudan,organisation,
+43,Water Information Management System (WIMS) developed by Ministry of Water Resources and Irrigation,organisation,
+44,Water Wells for Africa,organisation,
+45,WaterAid Lilongwe Training Group,organisation,
+46,World Vision US,organisation,
+47,WSSCC Water Points Survey Data for Mulanje and Phalombe (via Mulanje Mountain Valuation Study),organisation,
+48,http://www.dropbox.com/s/0f70mln5roxhy29/ProjToDate%20Watsan%2020150330%20water%20only%20for%20GWC-Raw.xls?dl=0,dataset,
+49,http://www.dropbox.com/s/1xe0iy58e8xqgxw/SWIMS_Essential_Information_Report_July07-raw.xls?dl=0,dataset,
+50,http://www.dropbox.com/s/3ns28lb7x8acr4m/DACAAR%20Water%20points%202_raw.xlsx?dl=0,dataset,
+51,http://www.dropbox.com/s/50779gal9v4z4y6/TZ%20waterpointmapping%2016_02_10%20v3_raw.xlsx?dl=0,dataset,
+52,http://www.dropbox.com/s/7paz4ixbh9ri3et/DataSpreadsheet_AllCountries_WPDx_v.1-Raw.xls?dl=0,dataset,
+53,http://www.dropbox.com/s/8sgpa099ebtbg2w/All_Waterpoins__ACF_c_-Raw.xlsx?dl=0,dataset,
+54,http://www.dropbox.com/s/9abftmvtim47cso/DACAAR%20DATA-raw.zip?dl=0,dataset,
+55,http://www.dropbox.com/s/d62qaxfs04dt8sl/website_data-raw.csv?dl=0,dataset,
+56,http://www.dropbox.com/s/gra1jff02jbrgpo/Public-Version-Final-Data.zip?dl=0,dataset,
+57,http://www.dropbox.com/s/jmdfndrp3axj3mt/consolidated%20GIS%20report%20-raw.xlsx?dl=0,dataset,
+58,http://www.dropbox.com/s/ju2doouu4f4yzod/DACAAR%20Water%20points%201_raw.xlsx?dl=0,dataset,
+59,http://www.dropbox.com/s/kje56zp14vr6hcv/Copy%20of%20GPS_MWA-raw.xlsx?dl=0,dataset,
+60,http://www.dropbox.com/s/nb3hjiltt65crnq/Copy%20of%20RAW%20Data_Fuente%20de%20Agua%20280415.xlsx?dl=0,dataset,
+61,http://www.dropbox.com/s/s1p75r8fv6f85tr/20150309_GWC_Water_SPT_System_Complete_raw.kmz?dl=0,dataset,
+62,http://www.dropbox.com/s/s1rtdv0q4bdnr4g/All%20Ugandan%20data-Raw.xlsx?dl=0,dataset,
+63,http://www.dropbox.com/s/z6mj6apshkcx1l3/Mulanje.valuation.v2-raw.xls?dl=0,dataset,
+64,https://www.dropbox.com/s/54vi3w6wu8fvas2/kajiado_water_points_RAW.csv,dataset,
+65,https://www.dropbox.com/s/a8dljvv6w6b1qis/Lifeline%20Data_RAW.xls,dataset,
+66,https://www.dropbox.com/s/aebxem173oj1bib/embu_water_points2_RAW.csv,dataset,
+67,https://www.dropbox.com/s/b1bfk2xi1r3xbo2/water-points-raw.csv,dataset,
+68,https://www.dropbox.com/s/cgxiad9ah4et52c/Copy%20of%20WASH%20DDBB_Homa%20Bay_final_RAW.xlsx,dataset,
+69,https://www.dropbox.com/s/da8ote6dbqnev8e/South%20Sudan%20Data_RAW.xlsx,dataset,
+70,https://www.dropbox.com/s/fva19fjry4j8au4/151207_wpdx_waterforpeople_csv_waterpoint_data%20%281%29.csv,dataset,
+71,https://www.dropbox.com/s/lx93dzf1wu2mvcc/kisumu_water_points2_RAW.csv,dataset,
+72,https://www.dropbox.com/s/qpcil6kxu8ymvrj/busia_water_points_RAW.csv,dataset,
+73,https://www.dropbox.com/s/qpcil6kxu8ymvrj/busia_water_points_RAW.csv?dl=0,dataset,
+74,https://www.dropbox.com/s/qpcil6kxu8ymvrj/busia_water_points_RAW.csv?dl=1,dataset,
+75,https://www.dropbox.com/s/qpcil6kxu8ymvrj/busia_water_points_RAW.csv?dl=2,dataset,
+76,https://www.dropbox.com/s/s111w7bk163cw6u/Copy%20of%20WASH%20DDBB_Suba_final_RAW.xlsx,dataset,
+77,https://www.dropbox.com/s/snfxhnhjxfplpsk/kiambu_water_points_RAW.csv,dataset,
+78,(blank),dataset,
+79,Afghanistan,country,AF
+80,Burkina Faso,country,BF
+81,"Bolivia, Plurinational State of",country,BO
+82,"Congo, The Democratic Republic of the",country,CD
+83,Central African Republic,country,CF
+84,C“te d'Ivoire,country,CI
+85,Colombia,country,CO
+86,El Salvador,country,SV
+87,Ethiopia,country,ET
+88,Gambia,country,GM
+89,Ghana,country,GH
+90,Guatemala,country,GT
+91,Haiti,country,HT
+92,Honduras,country,HN
+93,India,country,IN
+94,Kenya,country,KE
+95,Liberia,country,LR
+96,Malawi,country,MW
+97,Mali,country,ML
+98,Mexico,country,MX
+99,Mozambique,country,MZ
+100,Namibia,country,NA
+101,Nicaragua,country,NI
+102,Niger,country,NE
+103,Nigeria,country,NG
+104,Peru,country,PE
+105,Rwanda,country,RW
+106,Sierra Leone,country,SL
+107,Somalia,country,SO
+108,South Sudan,country,SS
+109,"Tanzania, United Republic of",country,TZ
+110,Timor-Leste,country,TL
+111,Uganda,country,UG
+112,Zambia,country,ZM
+113,Zimbabwe,country,ZW
